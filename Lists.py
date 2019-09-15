@@ -38,7 +38,7 @@ courses_4 = ['Robotics','Ethics','AI','Data','Embeded','Wirless']
 courses_4.reverse()
 print(courses_4)
 
-#Sorting The Lists
+#Sorting The Lists In Ascending Order
 
 courses_4.sort()
 print(courses_4)
@@ -47,3 +47,28 @@ letter = ['a','g','b','w','i','d','x']
 
 letter.sort()
 print(letter)
+
+#Sorting The Lists In Descending Order
+
+letter = ['a','g','b','w','i','d','x']
+
+letter.sort(reverse=True)
+print(letter)
+
+courses_4.sort(reverse=True)
+print(courses_4)
+
+#Sorting By Calling Sorted Function
+
+number = ['3','4','1','5','2']
+
+sort_number = sorted(number)
+print(sort_number)
+
+#Minimum And Maximum Of List:
+
+number_2 = [1,2,3,4,5]
+
+print(min(number_2))
+print(max(number_2))
+print(sum(number_2))
