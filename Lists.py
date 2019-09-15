@@ -18,3 +18,32 @@ courses_1.extend(courses_2)
 print(courses_1)
 
 print(len(courses_1))
+
+#Remove From The List
+
+courses_3 = ['Math','Physic','Chemistry','Biology']
+
+courses_3.remove('Math')
+
+print(courses_3)
+
+courses_3.pop() #By Default Its Remove The Last Value
+
+print(courses_3)
+
+#Reverse The List
+
+courses_4 = ['Robotics','Ethics','AI','Data','Embeded','Wirless']
+
+courses_4.reverse()
+print(courses_4)
+
+#Sorting The Lists
+
+courses_4.sort()
+print(courses_4)
+
+letter = ['a','g','b','w','i','d','x']
+
+letter.sort()
+print(letter)
