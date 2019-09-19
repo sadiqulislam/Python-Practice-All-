@@ -34,3 +34,10 @@ def new_name(name):
 
 new_name('SHIShIR')
 new_name("The_Presence")
+
+#Positional Parameter Passing:
+
+def info(name,age,phone):
+    print("Name={},Age={},Phone={}".format(name,age,phone),sep='|||')
+
+info(name='Shishir',age='23',phone='01681986940')
