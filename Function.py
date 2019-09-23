@@ -51,3 +51,40 @@ def personal_info (p_name,p_age,p_country='Bangladesh'):
 personal_info(p_name='Taylor',p_age='23',p_country='US') #Keyword Argument
 personal_info('Alam',30) #Positional Argument
 personal_info(p_name='Salam',p_age=30) #Keyword Argument With Default Value
+
+
+# Function Return Value:
+
+def sqr1(num):
+    return num*num
+print(sqr1(2))
+
+#Another Example:
+
+def get_name(first_name,last_name):
+    return  "First Name={} , Last Name ={}".format(first_name,last_name)
+
+print(get_name('Bill','gates'))
+
+def get_name2(f_name,l_name):
+    return "{} {}".format(f_name,l_name)
+print(get_name2('Steve',('Jobs')))
+
+def get_name3(f3_name,l3_name):
+    return f'{f3_name} {l3_name}'
+print(get_name3('The','Presence'))
+
+def get_name4(f4_name,l4_name):
+    return f4_name+ " " +l4_name
+print(get_name4('Gutsy','Warrior'))
+
+
+#Optional Arguement:
+
+def opt_name(first_name,last_name,middle_name=''):
+    complete_name = first_name+ " " +last_name
+    if middle_name:
+        complete_name+= " " +middle_name
+    return complete_name
+print(opt_name('Mohammad','Sadiqul','Islam'),sep=' ')
+print(opt_name('Md','Sadiqul'),sep=' ')
