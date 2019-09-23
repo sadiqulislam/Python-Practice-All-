@@ -41,3 +41,13 @@ def info(name,age,phone):
     print("Name={},Age={},Phone={}".format(name,age,phone),sep='|||')
 
 info(name='Shishir',age='23',phone='01681986940')
+
+#Keyword Argument:
+
+def personal_info (p_name,p_age,p_country='Bangladesh'):
+
+    print(p_name,p_age,p_country)
+
+personal_info(p_name='Taylor',p_age='23',p_country='US') #Keyword Argument
+personal_info('Alam',30) #Positional Argument
+personal_info(p_name='Salam',p_age=30) #Keyword Argument With Default Value
