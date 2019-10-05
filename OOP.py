@@ -1,5 +1,5 @@
 # Object Oriented Programming:
-'''
+
 class  Student:
 
     __name = None        # Private Variable
@@ -13,14 +13,15 @@ class  Student:
     def get_name(self):
         return self.__name
 
-    shishir = Student()
-    shishir.set_name("Shishir")
-    ob1 = shishir.get_name()
-    print(ob1)
-'''
+shishir = Student()
+shishir.set_name("Shishir")
+ob1 = shishir.get_name()
+print(ob1)
+
 
 
 # Object oriented programming
+'''
 
 class Employee:
     __name = None
@@ -50,6 +51,8 @@ class Employee:
     def get_salary(self):
         return self.__salary
 
-    harry = Employee('harry', 420, 70000000)
+harry = Employee('harry', 420, 70000000)
 
-    print(harry.get_salary())
+print(harry.get_salary())
+
+'''
