@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0b20c96-1058-4be4-a846-2a596a2fca18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Global_Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Local_Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shishir.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Function.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
