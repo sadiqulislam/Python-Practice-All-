@@ -1,5 +1,4 @@
 #Basic Function Call:
-
 def welcome():
     x = 'Welcome To Python'
     print(x)
