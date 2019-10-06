@@ -12,11 +12,11 @@ class Address(Person):
     def __init__(self,name,age):
         super().__init__(name,age)
 
-    def details(self):
+    def details(self):                                        #Overriding
         return str(self.name) + " " + str(self.age) + " " + "Dhaka"
 
     def full_details(self):
-        print("Details Of Parent Class Without Address",super().details())
+        print("Details Of Parent Class Without Address",super().details())     # Call From Method
         print("Details Of Child Class With Address",self.details())
 
 
