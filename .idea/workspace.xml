@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0b20c96-1058-4be4-a846-2a596a2fca18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AdvanceStringSlicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleAddCalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceStringSlicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceStringSlicing.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
