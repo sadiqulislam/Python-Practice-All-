@@ -24,3 +24,18 @@ for key in dict.keys():
 
 for value in dict.values():
     print(value)
+
+
+#New Example:
+
+dictonary = {"Shishir":"Pizza","Saad":"Milk","Nirjona":"Chocolate"}
+
+dictonary2 = {"Shishir":"Pizza","Ratul":{"Breakfast":"Porota","Launch":"Rice","Dinner":"Fish"}}
+
+print(type(dictonary))
+print(len(dictonary))
+print(dictonary)
+print(dictonary2)
+print(dictonary2["Ratul"] ["Breakfast"])                    #Inside Dictonary Access
+print(len(dictonary2))
+print(len(dictonary2["Ratul"]))
