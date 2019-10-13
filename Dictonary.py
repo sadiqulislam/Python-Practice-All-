@@ -39,3 +39,6 @@ print(dictonary2)
 print(dictonary2["Ratul"] ["Breakfast"])                    #Inside Dictonary Access
 print(len(dictonary2))
 print(len(dictonary2["Ratul"]))
+
+del dictonary ["Shishir"]     # Delete A Diconary Key
+print(dictonary)
