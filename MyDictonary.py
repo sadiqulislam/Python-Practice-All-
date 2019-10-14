@@ -44,4 +44,4 @@ print(["Mutable",
        ])
 
 word = input()
-print(presence.get(word))
+print(f"Meaning Of {word} is=",presence.get(word))
