@@ -37,3 +37,41 @@ file = open("Shishir.txt")
 
 for line2 in file:
     print(line2,end="")
+
+file.close()
+
+#ReadLine & ReadLines Function:
+
+file = open("Shishir.txt")
+print(file.readline())      #Print Line
+print(file.readline())
+file.close()
+
+file = open("Shishir.txt")
+print(file.readlines())   #Print As A Lists
+file.close()
+
+
+#File Writing:
+
+file3 = open("Shishir2.txt","w")
+
+file3.write("Shishir Is A Good Guy")
+
+file3.close()
+
+#Appending:
+
+file4 = open("Shishir2.txt","a")
+file4.write("I am Lucky Charm\n")
+file4.close()
+
+#Handle Read And Write Both:
+
+file5 = open("Shishir2.txt","r+")
+s = file5.read()
+file5.write("Thanks")
+
+print(s)
+
+file5.close()
