@@ -5,7 +5,7 @@ num2 = input()
 
 try:
     summation = int(num1) + int(num2)
-    print(f"The Sum Of {num1} And {num2} Is ",summation)
+    print(f"The Sum Of {num1} And {num2} Is = {summation}")
 
 except Exception as error:
     print(error)

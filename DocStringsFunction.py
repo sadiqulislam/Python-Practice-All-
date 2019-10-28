@@ -7,4 +7,5 @@ def function1(a,b):
     return average
 
 v = function1.__doc__
+print(function1(10,5))
 print(v)
