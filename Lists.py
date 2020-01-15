@@ -72,3 +72,12 @@ number_2 = [1,2,3,4,5]
 print(min(number_2))
 print(max(number_2))
 print(sum(number_2))
+
+#Check Whether It Is in The List Or Not:
+
+
+fruits = ["Apples","Grapes","Mango","Banana","Orange"]
+
+print("Apples" in fruits)
+
+print("Cow" in fruits)
