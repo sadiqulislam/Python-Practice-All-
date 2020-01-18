@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0b20c96-1058-4be4-a846-2a596a2fca18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FileExercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListComprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalProgramming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumericFuunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringFunction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shishir.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Shishir.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/ForLoops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +41,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.ListComprehension">
-    <configuration name="FileEverything" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.FunctionalProgramming">
+    <configuration name="FunctionalProgramming" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileEverything.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FunctionalProgramming.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FileExercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="NumericFuunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileExercise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumericFuunction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,28 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ListComprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ListComprehension.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Random Moduole" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Random Moduole" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TryExcept(ZeroDivisionError)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="StringCompare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +117,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TryExcept(ZeroDivisionError).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringCompare.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StringFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringFunction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ListComprehension" />
-        <item itemvalue="Python.FileExercise" />
-        <item itemvalue="Python.FileEverything" />
-        <item itemvalue="Python.TryExcept(ZeroDivisionError)" />
+        <item itemvalue="Python.FunctionalProgramming" />
+        <item itemvalue="Python.NumericFuunction" />
         <item itemvalue="Python.Random Moduole" />
+        <item itemvalue="Python.StringCompare" />
+        <item itemvalue="Python.StringFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -215,22 +217,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="449" y="146" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1579278750096" />
-    <state width="756" height="191" key="GridCell.Tab.0.bottom" timestamp="1579339106486">
+    <state width="1515" height="191" key="GridCell.Tab.0.bottom" timestamp="1579361577220">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="756" height="191" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579339106486" />
-    <state width="756" height="191" key="GridCell.Tab.0.center" timestamp="1579339106486">
+    <state width="1515" height="191" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579361577220" />
+    <state width="1515" height="191" key="GridCell.Tab.0.center" timestamp="1579361577220">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="756" height="191" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579339106486" />
-    <state width="756" height="191" key="GridCell.Tab.0.left" timestamp="1579339106486">
+    <state width="1515" height="191" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579361577220" />
+    <state width="1515" height="191" key="GridCell.Tab.0.left" timestamp="1579361577220">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="756" height="191" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579339106486" />
-    <state width="756" height="191" key="GridCell.Tab.0.right" timestamp="1579339106486">
+    <state width="1515" height="191" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579361577220" />
+    <state width="1515" height="191" key="GridCell.Tab.0.right" timestamp="1579361577220">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="756" height="191" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579339106486" />
+    <state width="1515" height="191" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579361577220" />
+    <state width="1364" height="238" key="GridCell.Tab.1.bottom" timestamp="1579357495823">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1364" height="238" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579357495823" />
+    <state width="1364" height="238" key="GridCell.Tab.1.center" timestamp="1579357495823">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1364" height="238" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1579357495823" />
+    <state width="1364" height="238" key="GridCell.Tab.1.left" timestamp="1579357495823">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1364" height="238" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1579357495823" />
+    <state width="1364" height="238" key="GridCell.Tab.1.right" timestamp="1579357495823">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1364" height="238" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1579357495823" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
