@@ -1,2 +1,1 @@
-I am The Presence
-I Am A Python Developer
+I Am The Boss
