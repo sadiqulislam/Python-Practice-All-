@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0b20c96-1058-4be4-a846-2a596a2fca18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Regular Expression/CharacterClasses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular Expression/DotMetacharacter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular Expression/Star&amp;Group.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular Expression/CharacterClasses.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular Expression/CharacterClasses.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.DotMetacharacter">
+  <component name="RunManager" selected="Python.Star&amp;Group">
+    <configuration name="CharacterClasses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regular Expression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular Expression/CharacterClasses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="DotMetacharacter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Inheritence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Random Moduole" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random Moduole.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RegularExpression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Star&amp;Group" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,28 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular Expression/RegularExpression.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="itertools" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/itertools.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular Expression/Star&amp;Group.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Star&amp;Group" />
+        <item itemvalue="Python.Random Moduole" />
+        <item itemvalue="Python.CharacterClasses" />
         <item itemvalue="Python.DotMetacharacter" />
         <item itemvalue="Python.Find&amp;Replace" />
-        <item itemvalue="Python.RegularExpression" />
-        <item itemvalue="Python.itertools" />
-        <item itemvalue="Python.Inheritence" />
       </list>
     </recent_temporary>
   </component>
@@ -214,22 +214,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="449" y="146" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1579278750096" />
-    <state width="754" height="191" key="GridCell.Tab.0.bottom" timestamp="1581343201494">
+    <state width="754" height="191" key="GridCell.Tab.0.bottom" timestamp="1581349230022">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="754" height="191" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581343201494" />
-    <state width="754" height="191" key="GridCell.Tab.0.center" timestamp="1581343201494">
+    <state width="754" height="191" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581349230022" />
+    <state width="754" height="191" key="GridCell.Tab.0.center" timestamp="1581349230022">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="754" height="191" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581343201494" />
-    <state width="754" height="191" key="GridCell.Tab.0.left" timestamp="1581343201493">
+    <state width="754" height="191" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581349230022" />
+    <state width="754" height="191" key="GridCell.Tab.0.left" timestamp="1581349230022">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="754" height="191" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581343201493" />
-    <state width="754" height="191" key="GridCell.Tab.0.right" timestamp="1581343201494">
+    <state width="754" height="191" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581349230022" />
+    <state width="754" height="191" key="GridCell.Tab.0.right" timestamp="1581349230022">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="754" height="191" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581343201494" />
+    <state width="754" height="191" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581349230022" />
     <state width="1364" height="238" key="GridCell.Tab.1.bottom" timestamp="1579373297665">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
